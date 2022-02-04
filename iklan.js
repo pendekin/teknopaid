@@ -2,6 +2,6 @@
 
 <script>
   function klin() {
-  window.open('url_iklan') ;
+  window.open('url_iklan','_blank') ;
   }
 </script>
